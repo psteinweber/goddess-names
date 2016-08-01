@@ -1,5 +1,4 @@
 
-
 Aphrodite
 Artemis
 Athena
